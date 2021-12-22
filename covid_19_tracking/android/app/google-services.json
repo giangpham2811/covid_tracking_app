@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1059099499450",
+    "project_id": "flutter-covid-19",
+    "storage_bucket": "flutter-covid-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059099499450:android:28290d01c0cd31898ddb83",
+        "android_client_info": {
+          "package_name": "com.phmmgiang.covid_19_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059099499450-n5ke1hr7h2kgnsnvbl466i68bdfb1nde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phmmgiang.covid_19_tracking",
+            "certificate_hash": "0dc2150d8099aa554036af7da4c140d70183ccb9"
+          }
+        },
+        {
+          "client_id": "1059099499450-op1hj35lff7qp68pp8k2e5k0c3lmlum2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phmmgiang.covid_19_tracking",
+            "certificate_hash": "ebfed45fef3fe9da92f4d76d19d0108d9f7f40de"
+          }
+        },
+        {
+          "client_id": "1059099499450-3fgc5h7r78bphfdjr9p1ob2gjj080gne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-4QK_agGIP_CnRNVRKC9Mat2uBU9gxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059099499450-3fgc5h7r78bphfdjr9p1ob2gjj080gne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
